@@ -7,6 +7,7 @@ Este repositório foi desenvolvido como parte de um desafio prático de ciberseg
 
 ## 🏗️ Estrutura do Repositório
 ```text
+├── images/                   # Capturas de tela demonstrando o funcionamento dos testes
 ├── keylogger/
 │   ├── keylogger.pyw         # Script de monitoramento local silencioso (gera log.txt em segundo plano)
 │   ├── keylogger_email.py    # Script de monitoramento assíncrono com exfiltração via SMTP
